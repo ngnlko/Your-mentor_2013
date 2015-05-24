@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fon">#7EC0EE</color>
+    <color name="btn">#FFFACD</color>
+    <color name="avt">#D2B48C</color>
+    <color name="tim">#F4A460</color>
+    <color name="cif">#FF8C00</color>
+    <string name="btn1">Таймер</string> 
+    <string name="btn2">Программы тренировок</string> 
+    <string name="btn3">Упражнения</string> 
+    <string name="btn4">Статьи</string> 
+    <string name="btn5">Дневник</string> 
+    <string name="btn6">Спортивное питание</string> 
+    <string name="abt">Автор</string>
+    
+    
+    <string name="gryd">Упражнения на грудь</string>
+    <string name="spina">Упражнения на спину</string>
+    <string name="nogi">Упражнение на ноги</string>
+    <string name="press">Упражнения на пресс</string>
+    <string name="plechi">Упражнения на плечи</string>
+    <string name="bice">Упражнения на бицепс</string>
+    <string name="trice">Упражнения на трицепс</string>
+        
+        
+    <string name="men">Программы для мужчин</string>
+    <string name="women">Программы для женщин</string>
+    <string name="save">Сохранить</string>
+    <string name="dnev">Введите текст</string>
+    <string name="clear">Очистить</string>
+    <string name="start">Старт</string>
+    <string name="pause">Пауза</string>
+    <string name="stop">Стоп</string>
+    <string name="gimshtangi">Жим штанги лежа</string>
+    <string name="gimgant">Жим гантелей лежа</string>
+   <string name="razved"> Разведение гантелей лежа</string>
+   <string name="bryc">Отжимания на брусьях</string>
+   <string name="otgim">Отжимания от пола</string>
+   <string name="pylover">Тяга гантели из-за головы лежа (пуловер)</string>
+    <string name="sveden">Сведение рук на тренажере</string>
+     <string name="naklon">Жим штанги на наклонной скамье</string>
+     <string name="cros">Кроссовер</string>
+     
+     <string name="gims">Жим штанги сидя</string>
+     <string name="gims1">Жим гантелей сидя</string>
+     <string name="arn">Жим Арнольда</string>
+     <string name="podiem">Подъем гантелей перед собой</string>
+   <string name="razvedg">Разведение гантелей стоя</string>
+   
+        <string name="tyag">Тяга штанги в наклоне</string>
+     <string name="tgant">Тяга гантели одной рукой в наклоне</string>
+     <string name="vrt">Вертикальная тяга широким хватом</string>
+     <string name="vrt1">Вертикальная тяга обратным хватом</string>
+   <string name="gtyag">Горизонтальная тяга в блочном тренажере</string>
+   
+   
+   <string name="priceda">Приседания со штангой</string>
+   <string name="gimnog">Жим ногами в тренажере</string>
+   <string name="vipadi">Выпады со штангой</string>
+   <string name="razgiba">Разгибания ног</string>
+   <string name="sgiban">Сгибание ног лежа</string>
+   <string name="podiemi">Подъемы на носки сидя</string>
+   
+   <string name="skryc">Скручивания</string>
+   <string name="skrnakl">Скручивания на скамье с наклоном вниз</string>
+   <string name="obrskr">Обратные скручивания</string>
+   <string name="vvise">Подъемы ног в висе</string>
+   <string name="kosskr">Косые скручивания</string>
+
+   <string name="shts">Подъем штанги на бицепс стоя</string>
+   <string name="ganteli">Подъем гантелей на бицепс сидя</string>
+   <string name="molot">Упражнение Молоток</string>
+   <string name="skott">Бицепс на скамье скотта</string>
+   <string name="obrhvat">Подъем штанги на бицепс обратным хватом</string>
+   
+   
+   <string name="jshtan">Жим штанги узким хватом</string>
+   <string name="otjmsk">Отжимания от скамьи</string>
+   <string name="fran">Французский жим лежа</string>
+   <string name="vtrena">Жим к низу в блочном тренажере</string>
+   <string name="izzagol">Разгибание руки с гантелью из-за головы</string>
+   
+   <string name="st1">Мезоморф, эндоморф, эктоморф - типы телосложений</string>
+   <string name="st2">Типы телосложений женщин</string>
+   <string name="st3">Углеводное и белковое окно</string>
+   <string name="st4">Самые калорийные продукты.</string>
+   <string name="st5">Бодибилдинг и иммунитет</string>
+   <string name="st6">Что такое сплит? Пример простого сплита</string>
+   <string name="st7">Как расширить плечи?</string>
+   <string name="st8">Как тренироваться для увеличения силы?</string>
+   <string name="st9">Укрепление позвоночника</string>
+   <string name="st10">Десять заповедей набора массы</string>
+   <string name="st11">Питание перед тренировкой в бодибилдинге</string>
+   <string name="st12">Возвращение в зал после простуды</string>
+   <string name="st13">Как устранить сутулость?</string>
+   <string name="st14">Бодибилдинг до 16 лет. Особенности</string>
+   
+</resources>

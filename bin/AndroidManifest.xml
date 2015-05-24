@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youtrain"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.youtrain.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="Programi"></activity>
+        <activity android:name="Ypragn"></activity>
+        <activity android:name="Dnevnik"></activity>
+        <activity android:name="Women"></activity>
+        <activity android:name="Men"></activity>
+        <activity android:name="Timer"></activity>
+        
+        <activity android:name="com.youtrain.article.Article"></activity>
+        <activity android:name="com.youtrain.article.Novich"></activity>
+        <activity android:name="com.youtrain.article.Massa"></activity>
+        <activity android:name="com.youtrain.article.Sila"></activity>
+        <activity android:name="com.youtrain.article.Skalioz"></activity>
+        <activity android:name="com.youtrain.article.Relief"></activity>
+        <activity android:name="com.youtrain.article.Notime"></activity>
+        <activity android:name="com.youtrain.article.Dvnedeli"></activity>
+        
+        <activity android:name="eat.Eat"></activity>
+        
+        <activity android:name="women.Universal"></activity>
+        <activity android:name="women.Iobr"></activity>
+        <activity android:name="women.Oobr"></activity>
+        <activity android:name="women.Xobr"></activity>
+        <activity android:name="women.Poxyd"></activity>
+        
+        <activity android:name="yprag.Gryd"></activity>
+        <activity android:name="yprag.gryd.Gimsh"></activity>
+        <activity android:name="yprag.gryd.Gims1"></activity>
+        <activity android:name="yprag.gryd.Razved"></activity>
+        <activity android:name="yprag.gryd.Otjim"></activity>
+        <activity android:name="yprag.gryd.Otjim1"></activity>
+        <activity android:name="yprag.gryd.Pylov"></activity>
+        <activity android:name="yprag.gryd.Sved"></activity>
+        <activity android:name="yprag.gryd.Naklon"></activity>
+        <activity android:name="yprag.gryd.Cros"></activity>
+        
+         <activity android:name="yprag.Plechi"></activity>
+        <activity android:name="yprag.plechi.Gimsid"></activity>
+        <activity android:name="yprag.plechi.Gimsid1"></activity>
+        <activity android:name="yprag.plechi.Arni"></activity>
+        <activity android:name="yprag.plechi.Razved"></activity>
+        <activity android:name="yprag.plechi.Podiem"></activity>
+        
+        <activity android:name="yprag.Spina"></activity>
+        <activity android:name="yprag.spina.Vnaklone"></activity>
+        <activity android:name="yprag.spina.Tgant"></activity>
+        <activity android:name="yprag.spina.Verttyag"></activity>
+        <activity android:name="yprag.spina.Verttyag1"></activity>
+        <activity android:name="yprag.spina.Goriztyag"></activity>
+        
+        <activity android:name="yprag.Nogi"></activity>
+        <activity android:name="yprag.nogi.Priced"></activity>
+        <activity android:name="yprag.nogi.Jimnog"></activity>
+        <activity android:name="yprag.nogi.Vipad"></activity>
+        <activity android:name="yprag.nogi.Razgiban"></activity>
+        <activity android:name="yprag.nogi.Sgibanie"></activity>
+        <activity android:name="yprag.nogi.Podiem"></activity>
+        
+        
+        <activity android:name="yprag.Pres"></activity>
+        <activity android:name="yprag.press.Skrych"></activity>
+        <activity android:name="yprag.press.Skrychnakl"></activity>
+        <activity android:name="yprag.press.Obrskrych"></activity>
+        <activity android:name="yprag.press.Podiemnog"></activity>
+        <activity android:name="yprag.press.Kosieskr"></activity>
+        
+        <activity android:name="yprag.Biceps"></activity>
+        <activity android:name="yprag.biceps.Shtanga"></activity>
+        <activity android:name="yprag.biceps.Gantel"></activity>
+        <activity android:name="yprag.biceps.Molotok"></activity>
+        <activity android:name="yprag.biceps.Skott"></activity>
+        <activity android:name="yprag.biceps.Obratnhvat"></activity>
+        
+        <activity android:name="yprag.Triceps"></activity>
+        <activity android:name="yprag.triceps.Yzkim"></activity>
+        <activity android:name="yprag.triceps.Otskam"></activity>
+        <activity android:name="yprag.triceps.Franc"></activity>
+        <activity android:name="yprag.triceps.Vtrenaj"></activity>
+        <activity android:name="yprag.triceps.Razgiban"></activity>
+        
+        
+        <activity android:name="stat.Do16"></activity>
+        <activity android:name="stat.Immyn"></activity>
+        <activity android:name="stat.Kollor"></activity>
+        <activity android:name="stat.Pitanp"></activity>
+        <activity android:name="stat.Plechr"></activity>
+        <activity android:name="stat.Pozvon"></activity>
+        <activity android:name="stat.Pprost"></activity>
+        <activity android:name="stat.Smassi"></activity>
+        <activity android:name="stat.Split"></activity>
+        <activity android:name="stat.Stroen"></activity>
+        <activity android:name="stat.Stroenw"></activity>
+        <activity android:name="stat.Sytyl"></activity>
+        <activity android:name="stat.Trnsila"></activity>
+        <activity android:name="stat.Ygl"></activity>
+    </application>
+
+</manifest>

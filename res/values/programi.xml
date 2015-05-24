@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fon_progr">#F0FFFF</color>
+    <string name="massa">Программа по набору массы</string>
+    <string name="sila">Программа по увеличению силы</string>
+    <string name="nachalo">Программа для начинающих</string>
+   <string name="skaioz"> Программа тренировок для людей со скалиозом</string>
+   <string name="zanyat">Программа тренировок для занятых мужчин</string>
+   <string name="relief">Программа тренировок для рельфа</string>
+    <string name="dvnedel">Двухнедельная программа тренировок</string>
+    <string name="yniversa">Универсальная программа тренировок для девушек</string>
+     <string name="I">Программа тренировок для I-образной фигуры</string>
+     <string name="O">Программа тренировок для О-образной фигуры</string>
+     <string name="X">Программа тренировок для Х-образной фигуры</string>
+     <string name="T">Программа тренировок для Т-образной фигуры</string>
+     <string name="H">Программа тренировок для Н-образной фигуры</string>
+     <string name="asd">Программа тренировок для А-образной фигуры</string>
+     <string name="xyd">Программа направленная на похудение</string>
+</resources>
